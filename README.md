@@ -1,10 +1,10 @@
-📌 Project Overview
+# 📌 Project Overview
 
 The Mobile Sales Dashboard is an interactive Power BI project designed to analyze mobile phone sales performance across different brands, cities, payment methods, and time periods. The dashboard provides actionable insights into sales trends, monthly performance, customer transactions, and year-over-year comparisons.
 
 This project demonstrates data visualization, business intelligence, and dashboard development skills using Power BI.
 
-🚀 Features
+## 🚀 Features
 
 Interactive dashboard with slicers and filters.
 
@@ -22,9 +22,9 @@ Year, quarter, month, and day-wise analysis.
 
 Dynamic KPI cards.
 
-📊 Dashboard Pages
+# 📊 Dashboard Pages
 
-1️⃣ Sales Overview
+## 1️⃣ Sales Overview
 
 Key Metrics
 
@@ -52,7 +52,8 @@ Sales by day of the week
 
 Brand-wise sales and transaction table
 
-2️⃣ Month-to-Date (MTD) Report
+
+## 2️⃣ Month-to-Date (MTD) Report
 
 Tracks cumulative sales performance throughout the month.
 
@@ -75,7 +76,7 @@ Interactive monthly filters
 Product and payment analysis
 
 
-3️⃣ Same Period Last Year Analysis
+## 3️⃣ Same Period Last Year Analysis
 
 Compares current sales performance with the same period from the previous year.
 
@@ -97,7 +98,7 @@ Quarterly sales comparison
 
 Monthly sales trend analysis
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI Desktop
 
@@ -109,7 +110,7 @@ Data Modeling
 
 Excel / CSV Dataset
 
-📈 Business Insights
+## 📈 Business Insights
 
 ✔️ Identify top-performing mobile brands.
 
@@ -123,7 +124,7 @@ Excel / CSV Dataset
 
 ✔️ Track month-to-date business performance.
 
-📂 Dataset Information
+## 📂 Dataset Information
 
 The dataset includes:
 
@@ -147,7 +148,7 @@ Customer Name
 
 Date (Year, Quarter, Month, Day)
 
-🔑 Key Skills Demonstrated
+## 🔑 Key Skills Demonstrated
 
 Data Cleaning and Transformation
 
@@ -165,7 +166,7 @@ Business Analytics
 
 Data Visualization
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 Dashboard Overview
 
@@ -174,9 +175,9 @@ MTD Report
 Same Period Last Year Analysis
 
 
-📬 Contact
+## 📬 Contact
 
-Hemangi Gadhavi
+### Hemangi Gadhavi
 
 LinkedIn: https://www.linkedin.com/in/hemangi-gadhavi-a95995367/)
 
