@@ -118,5 +118,5 @@ The dataset includes:
 
 ### Hemangi Gadhavi
 
-- LinkedIn: https://www.linkedin.com/in/hemangi-gadhavi-a95995367/)
+- LinkedIn: https://www.linkedin.com/in/hemangigadhavi/
 - Email: hemangigadhavi152@gmail.com
